@@ -14,7 +14,7 @@ A beginner-friendly Power BI dashboard exploring fictional apocalypse-related pr
 - Slicers for Product Category
 
 **Learning Source:**  
-Project built while learning from [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)]
+Project built while learning from [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
 
 
 ### 💻 Tools Used
