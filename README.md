@@ -26,18 +26,16 @@ Project built while learning from [Alex The Analyst](https://www.youtube.com/@Al
 #📌 Note
 This repository will be updated as I build more dashboards and improve my Power BI skills.
 
-##day2 - Learning Highlights
+### 🟢 Day 2 Update
 
-While working on this project, I learned and practiced several core Power BI concepts, especially within the Power Query Editor:
+Today I explored Power Query and learned how to:
+- Transform raw data
+- Unpivot columns
+- Remove rows/columns
+- Use first row as headers
 
-Transforming raw data for analysis
+## 🗓️ Learning Log
 
-Unpivoting columns to convert wide data into a usable format
+- **Day 1:** Setup project, imported dataset, explored Power BI layout.
+- **Day 2:** Learned Power Query basics – unpivoting, cleaning, transforming data.
 
-Removing unnecessary rows and columns to clean the dataset
-
-Using the first row as headers
-
-Navigating the Power Query interface for efficient data preparation
-
-This hands-on practice helped me understand the foundational steps in data cleaning and shaping before building visualizations.
