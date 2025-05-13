@@ -17,7 +17,7 @@ A beginner-friendly Power BI dashboard exploring fictional apocalypse-related pr
 Project built while learning from [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)]
 
 
-## 💻 Tools Used
+### 💻 Tools Used
 - Power BI Desktop
 - Excel / CSV for raw data
 - GitHub for version control & portfolio
