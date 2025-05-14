@@ -34,8 +34,16 @@ Today I explored Power Query and learned how to:
 - Remove rows/columns
 - Use first row as headers
 
+### 🟢 Day 3 Update
+
+Today I explored Relationships and learned how to:
+- Form Relationships
+- Cardinality ratios
+
+
 ## 🗓️ Learning Log
 
 - **Day 1:** Setup project, imported dataset, explored Power BI layout.
 - **Day 2:** Learned Power Query basics – unpivoting, cleaning, transforming data.
+- **Day 3:** Learned  to about cardinality ratios and relationships.
 
